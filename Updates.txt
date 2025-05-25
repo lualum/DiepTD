@@ -1,0 +1,79 @@
+Ⓒ AxelLucas & Co.
+
+Version 0.0
+  - Creation of Project
+  - Removed CreepyPasta
+
+Version 0.1
+  - Tanks 
+    - Moving Bullets
+    - Unique Designs
+    - Placeable (use NUMBER keys)
+  - Enemies
+    - Moving Enemies
+    - Unique Designs
+    - Basic/Custom Wave Generation
+  - Collisions (Bullet & Enemy)
+  - Background Grid
+  - Removed CreepyPasta
+
+Version 0.2
+  - Added Healthbars
+  - First implementation of Death Screen
+  - Lives
+  - Tank Health/Healthbars
+  - Debug Features
+  - Fullscreen (ENTER)
+  - Removal of 0 key, Replaced with Right Click
+  - Removed CreepyPasta
+
+  - BUG FIX: Fixed Missing Enemy Corner
+
+----------------
+
+Version IDEA (PVZ -> BLOONS):
+  - New Grid Dimensions
+  - Removal of Enemy-Tank Collisions and Tank Health
+  - Added Pathway / Path Tiles
+
+----------------
+
+Version Pre-Release:
+  - Auto-Turn / Directional Bullets
+  - Range
+  - Toggleable Idle Tank Rotation
+  - Displayable Tank Range
+  - Menu
+  - Basic XP System
+  - Re-implementation of Health
+
+FULL RELEASE [1.0]:
+  - Tank Tiers
+  - Upgrading
+  - Tank Types
+  - Full Menu
+  - Waves
+
+Special Update [1.1]:  
+  - Addition of Trapper
+  - Addition of Overseer
+
+Boss Update [1.2]:
+  - Addition of Hex-Gon
+  - Additon of Octo-Gon
+
+Cleaning Update [1.3] [we are here]:
+  - Centered Menu Icons
+  - Fixed Rotation Glitch
+  - Prevents Health From Going Negative
+  - Better Money Display/Rounding
+  - Bonus Time
+  - Toggleable Music
+
+MOAR Update [1.4]
+  - Tier 4 Tanks
+  - Mothership Tank
+
+Final Update...[1.5]
+  - finish everything
+  - 2 TIME WINNER

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+.mainDiv {
+  display: flex;
+  flex-wrap: nowrap;
+  word-spacing: 0px;
+  font-size: 0px;
+  margin:0;
+}
